@@ -4,4 +4,4 @@ In this challenge, I created a dashboard that allows users to interact with data
 
 Included in the dashboard is a dropdown menu where the user can select the individual name of the sample, a panel that displays demographic information for that selected individual, a bar chart that shows the top ten OTUs for that selected individual, and a bubble chart the displays info on each sample. 
 
-The code powering this dashboard can be found in app.js within the static folder, while the index.html has the HTML code for the dashboard. Feel free to use GitHub Pages to interact with the dashboard.
+The code powering this dashboard can be found in app.js within the static folder, while the index.html has the HTML code for the dashboard. Feel free to use GitHub Pages to interact with the dashboard (https://samhnelsen.github.io/belly-button-challenge/)
